@@ -5,6 +5,7 @@ body {
     font-family: sans-serif;
     padding: 20px;
     background-size: contain;
+    overflow: hidden;
   }
   
   h1 {
